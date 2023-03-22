@@ -1,24 +1,4 @@
-This chapter sets forth our theme of integrating clinical science and clinical
-practice. We discuss the philosophical and practical or applied aspects of
-clinical psychology and place clinical psychology in perspective relative to the
-historical, social, gender, cultural, and scientific environments in which it was
-created and in which it and we, as clinical psychologists, exist.
-Our model is based on clinical psychology as a general treatment model,
-with the clinical psychologist serving as a primary care practitioner: the “psychological family doctor.” This chapter also delineates the direction and plan for
-the book.
-Learning Objectives
-At the end of this chapter, the reader should be able to:
-• List five historical markers in the conceptualization and treatment of
-clinical phenomena.
-• Identify three scientific eras that have influenced the development of
-clinical psychology.
-• Describe the contemporary organizational environment of the field of
-clinical psychology.
-• Explain the concept of the clinical psychologist as a primary care
-practitioner.
-• List at least 10 learning objectives for reading the chapters ahead.
-Mary, a doctoral-level psychologist, was at a party where the hostess introduced her to someone by saying, “This is Mary. She’s a psychologist.” The
-4 Introduction
+Introduction
 other person smiled and said, “Whoops. I better be careful what I say so you
 won’t be analyzing me.” Mary’s response was that she was not a clinical psychologist, but an experimental psychologist working on aspects of language acquisition in chimpanzees.
 It is of more than passing interest to know that many people who hear the
@@ -17081,56 +17061,7 @@ lives that allows for healthy self-care and attention, and development of meanin
 develop a strong sense of personal and professional self, and keep themselves in
 tune to how external situations are impacting their behaviors, thoughts, and
 feelings, and vice versa:
-www.mindtools.com/pages/article/newTCS08.htm
-www.healthyplace.com/site/tests/psychological.asp
-www.isu.edu/∼bhstamm/tests.htm
-www.positivepsychology.org/viastrengthsinventory.htm
-Appendix A: Self-Help for Stress Management and Relaxation
-Benson, H. (1985). Beyond the relaxation response. New York: Berkley.
-Brock, B. (2003). Beyond burnout: When the counselor needs help. Addiction Professional, 1(4),
-18–22.
-Davis, M., Eshelman, E. R., & McKay, M. (1999). The relaxation and stress reduction workbook (4th
-ed.). Oakland, CA: New Harbringer.
-Self-Care and Ethics 449
-Halberstam, J. (1994). Everyday ethics: Inspired solutions to real-life dilemmas. New York: Penguin.
-Harris, R. (2001). Twenty minute retreats: Revive your spirits in just minutes a day with simple self-led
-exercises. New York: Pan Books.
-Hittleman, R. (1995). Richard Hittleman’s 28 day yoga exercise. New York: Random House Value.
-Kabat-Zinn, J. (2005). Wherever you go, there you are: Mindfulness meditation in everyday life. New
-York: Hyperion.
-Madders, J. (1997). The stress and relaxation handbook: A practical guide to self-help techniques. London: Vermilion.
-McGoldrick, M. (1998). You can go home again: Reconnecting with your family. New York: Replica
-Books.
-Self-Help for Managing Emotions and Reactions to Clients
-Ellis, A., & Tafrate, R. C. (2000). How to control your anger before it controls you. New York: Citadel.
-Kleinke, C. (2002). Coping with life challenges (2nd ed.). New York: Waveland Press.
-McKay, G., & Dinkmeyer, D. (2002). How you feel is up to you: The power of emotional choice. San
-Luis Obispo, CA: Impact.
-Nay, W. R. (2004). Taking charge of anger: How to resolve conflict, sustain relationships, and express
-yourself without losing control. New York: Guilford Press.
-Weisinger, H. (1985). Dr. Weisinger’s anger work-out book. New York: Quill.
-Self-Help Books Addressing Major Life Events
-Beck, A. (1989). Love is never enough. New York: Harper Paperbacks.
-Frankl, V. (2006). Man’s search for meaning. New York: Beacon Press.
-James, J. W., & Cherry, F. (1988). The grief recovery handbook: A step-by-step program for moving beyond loss. New York: Harper & Row.
-Larson, D. G. (1993). The helper’s journey: Working with people facing grief, loss, and life-threatening
-illness. Champaing, IL: Research Press.
-Trafford, A. (1982). Crazy time: Surviving divorce. New York: Harper & Row.
-Warren, S., & Thompson, A. (1999). Dumped: A survival guide for the woman who’s been left by the
-man she loved. New York: Avon.
-Appendix B: Self-Help and Self-Exploration References on
-Positive Psychology
-Baldwin, C. (1990). Life’s companion: Journal writing as a spiritual quest. New York: Bantam
-Books.
-Carr, A. (2004). Positive psychology: The science of happiness and human strengths. Hove, England:
-Brunner-Routledge.
-Covey, S. (2004). The 7 habits of highly effective people. New York: Free Press.
-Nezu, C. M., & Nezu, A. M. (2004). Awakening self-esteem: Spiritual and psychological techniques to
-enhance your well-being. New York: New Harbringer.
-Prochaska, J. O., Norcross, J. C., & DiClimente, C. C. (1995). Changing for good. New York: Avon.
-Seligman, M. (2006). Learned optimism: How to change your mind and your life. New York: Vintage
-Press.
-Seligman, M. (2000). Authentic happiness. New York: Free Press.
+
 
 
 
